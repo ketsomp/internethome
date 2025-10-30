@@ -1,0 +1,31 @@
+{
+  "navbar": [
+    {
+      "Index": "index.html"
+    },
+    {
+      "Posts": "collections/posts.html"
+    },
+    {
+      "LinkedIn": "https://www.linkedin.com/in/sompura/"
+    },
+    {
+      "GitHub": "https://github.com/ketsomp"
+    },
+    {
+      "Email": "mailto:aniketpruthvi@gmail.com"
+    },
+    {
+      "Phone": "tel:+91 9606330738"
+    }
+  ],
+  "baseURL": "https://sompura.tech/",
+  "siteTitle": "Aniket Sompura",
+  "siteScripts": null,
+  "author": "Aniket Sompura",
+  "themeURL": "/static/style.css",
+  "copyright": "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.",
+  "collectionLayouts": {
+    "collections/posts.html": "all-posts"
+  }
+}

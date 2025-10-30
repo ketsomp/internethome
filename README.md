@@ -1,2 +1,5 @@
-# html-resume
-basic html resume made during web development course
+## Usage
+
+```sh
+anna -s site/
+```
