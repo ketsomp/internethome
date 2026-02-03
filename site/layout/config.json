@@ -1,10 +1,10 @@
 {
   "navbar": [
     {
-      "Index": "index.html"
+      "Index": "/index.html"
     },
     {
-      "Posts": "collections/posts.html"
+      "Posts": "/collections/posts.html"
     },
     {
       "LinkedIn": "https://www.linkedin.com/in/sompura/"
