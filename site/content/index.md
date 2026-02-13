@@ -1,5 +1,5 @@
 ---
-date: 2024-02-24
+date: 2026-02-13
 title: Home
 previewimage: "/static/images/anna.png"
 description: "homepage for our ssg"
@@ -21,10 +21,12 @@ PES University: Bachelor of Technology in Computer Science and Engineering (Expe
 
 ## Experience
 
-N/A
+### Interning at [CIE, PESU](https://cie.pes.edu/)
+
+Working on a unified AI evaluation pipeline to assist human judges for [CIE-Spark/Ignite](https://events.pes.edu/11183/)
 
 ## Projects
 
-- [Hexham's Reckoning - pygame platformer](https://github.com/deas28/Hexhams-Reckoning)
+- [Image Super Resolution](https://github.com/ketsomp/super-resolution-cnn)
 - [Hexham's Awakening - pygame adventure RPG](https://github.com/ketsomp/Hexhams-Awakening)
 - [Restaurant Management System - Tkinter application backed by SQL](https://github.com/ketsomp/restaurant-management)

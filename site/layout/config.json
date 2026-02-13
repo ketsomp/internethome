@@ -1,9 +1,6 @@
 {
   "navbar": [
     {
-      "Index": "/index.html"
-    },
-    {
       "Posts": "/collections/posts.html"
     },
     {
@@ -19,7 +16,7 @@
       "Phone": "tel:+91 9606330738"
     }
   ],
-  "baseURL": "https://sompura.tech/",
+  "baseURL": "https://sompura.dev/",
   "siteTitle": "Aniket Sompura",
   "siteScripts": null,
   "author": "Aniket Sompura",
